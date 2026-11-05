@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-orders-vue-inertia",
+  "capabilityKey": "liberusoftware/module-billing-orders",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-billing-orders-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/billing/nextjs/orders.md",
+  "presentationPlan": "projects/billing/vue/orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
